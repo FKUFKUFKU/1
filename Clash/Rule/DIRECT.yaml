@@ -1,5 +1,4 @@
 payload:
 - DOMAIN,sub1.sntp.dev
-- DOMAIN-SUFFIX,snssdk.com
 - DOMAIN,cn.download.nvidia.com
 - DOMAIN-SUFFIX,xn--hwqp2zit2amna.com
